@@ -152,3 +152,4 @@ converted/
 output/
 *.md
 !README.md
+!CLAUDE.md
